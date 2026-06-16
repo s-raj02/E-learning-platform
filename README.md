@@ -42,41 +42,7 @@ E-learning-platform/
 ├── .env.example           # Shared placeholder environment variables
 └── README.md              # Project documentation
 ```
-## 💻 Installation & Local Setup
-Follow these directions to spin up the platform environment on your local machine:
 
-1. Clone the Repository
-- Bash
-- git clone [https://github.com/s-raj02/E-learning-platform.git](https://github.com/s-raj02/E-learning-platform.git)
-cd E-learning-platform
-2. Configure Database & Environment
-- Open your database GUI/CLI tool.
-- Create a new database workspace (e.g., elearning_db).
-- Import any initialization files located in the database/ folder.
-- Create a .env file in your server directory matching the variables highlighted in .env.example:
-
-Code snippet
-```text
-PORT=5000
-DB_HOST=localhost
-DB_USER=root
-DB_PASS=your_password
-JWT_SECRET=your_secret_token
-```
-3. Initialize Backend Services
-Bash
-cd backend
-npm install   # or alternative package manager setup commands
-npm start
-4. Initialize Frontend Client
-```text
-Open a secondary terminal instance from the root project folder:
-Bash
-cd frontend
-npm install
-npm start
-The client dashboard should automatically mount and serve via your browser at http://localhost:3000.
-```
 
 ## 📊 Core Application Workflow
 Sign Up / Login: A user lands on the portal and registers dynamically as a Student or an Instructor.
@@ -87,5 +53,8 @@ Course Publishing: Logged-in Instructors use a specialized content form to struc
 
 Interactive Dashboard: Tracks completed video modules, showing individual metrics per user account.
 
-## 📧 Contact
-Project Link: https://github.com/s-raj02/E-learning-platform
+## 👨‍💻 Author
+
+Sudhanshu Raj
+
+GitHub: https://github.com/s-raj02
