@@ -42,7 +42,7 @@ E-learning-platform/
 ├── .env.example           # Shared placeholder environment variables
 └── README.md              # Project documentation
 ```
-##💻 Installation & Local Setup
+## 💻 Installation & Local Setup
 Follow these directions to spin up the platform environment on your local machine:
 
 1. Clone the Repository
