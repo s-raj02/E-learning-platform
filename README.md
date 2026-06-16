@@ -46,17 +46,14 @@ E-learning-platform/
 Follow these directions to spin up the platform environment on your local machine:
 
 1. Clone the Repository
-Bash
-git clone [https://github.com/s-raj02/E-learning-platform.git](https://github.com/s-raj02/E-learning-platform.git)
+- Bash
+- git clone [https://github.com/s-raj02/E-learning-platform.git](https://github.com/s-raj02/E-learning-platform.git)
 cd E-learning-platform
 2. Configure Database & Environment
-Open your database GUI/CLI tool.
-
-Create a new database workspace (e.g., elearning_db).
-
-Import any initialization files located in the database/ folder.
-
-Create a .env file in your server directory matching the variables highlighted in .env.example:
+- Open your database GUI/CLI tool.
+- Create a new database workspace (e.g., elearning_db).
+- Import any initialization files located in the database/ folder.
+- Create a .env file in your server directory matching the variables highlighted in .env.example:
 
 Code snippet
 ```text
