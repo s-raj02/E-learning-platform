@@ -1,6 +1,6 @@
 # Learnify
 [![Framework](https://img.shields.io/badge/Architecture-Full%20Stack-blue.svg)](#-tech-stack)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 
 Learnify is a comprehensive, scalable full-stack e-learning platform designed to provide a seamless learning experience for both students and educators. It bridges the gap between instructors and learners by enabling efficient course management, secure user registration, progress tracking, and interactive dashboards for different user roles. With its intuitive and feature-rich interface, Learnify supports learning, collaboration, and resource sharing in a structured and engaging way.
 
